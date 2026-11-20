@@ -28,15 +28,15 @@ True King is a chess app for clubs and friends. Play on a 3D board, run Swiss to
 - Swiss pairings with no repeat opponents where possible, plus byes for odd player counts
 - Record results by hand, or play each pairing on the board and have the result saved automatically
 - Add as many rounds as you like, with tiebreak handling and a champion banner
-- Live standings with points, W/D/L and tiebreak
-### Ranking (Hall of kings)
+- Live standings with points, W/D/L, and tiebreak
+### Ranking (Hall of Kings)
 - Podium for the top three, rank titles (Pawn to King) and win/draw/loss bars
 - Win = 3 points, draw = 1, defeat = 0, and a 🏆 for each tournament won
 - Updates automatically from tournaments and casual games; names can be removed
 - **New tournament** clears players, matches and the ranking
 ## Run it
  
-No install needed.
+No installation needed.
  
 1. Download or clone this repo.
 2. Open `index.html` in any modern browser.
@@ -86,10 +86,6 @@ CreationWebsite/
 ## Contributing
  
 Issues and pull requests are welcome. For larger changes, please open an issue first to discuss what you would like to change.
- 
-## License
- 
-[MIT](LICENSE)
  
 ## Author
  
