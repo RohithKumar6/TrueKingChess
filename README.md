@@ -5,10 +5,6 @@
  
 True King is a chess app for clubs and friends. Play on a 3D board, run Swiss tournaments, and climb a live ranking. It is a single HTML file with no build step and no dependencies.
  
-**Live demo:** https://rohithkumar6.github.io/CreationWebsite/
- 
-![True King screenshot](screenshot.png)
- 
 ## Features
  
 ### Play
